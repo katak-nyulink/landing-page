@@ -1,5 +1,6 @@
 # Ignore docs files
 /_gh_pages/
+/_pgbackup/
 # Hugo folders
 /resources/
 
@@ -43,5 +44,4 @@ Thumbs.db
 # Folders to ignore
 /js/coverage/
 /node_modules/
-/_pgbackup/
 /vendor/
