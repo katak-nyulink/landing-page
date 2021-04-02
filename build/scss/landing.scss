@@ -1,0 +1,16 @@
+/*!
+ * Landing Page (https://katak-nyulink.com/)
+ * Copyright 2021 The Katak Nyulink Authors
+ * Copyright 2021 Katak Nyulink, Inc.
+ * Licensed under MIT
+ */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    &::before,
+    &::after{
+        box-sizing: border-box;
+    }
+}
