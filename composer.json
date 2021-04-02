@@ -1,25 +1,17 @@
 {
-    "name": "katak-nyulink/landing-page",
-    "description": "Landing Page - simple html web template based on Bootstrap 4",
+    "name": "kataknyulink/landing-page",
+    "description": "Landing Page - Simple html web template bases on bootstrap 4",
+    "license": "MIT",
     "homepage": "https://katak-nyulink.com/",
-    "keywords": [
-        "css",
-        "js",
-        "sass",
-        "responsive",
-        "back-end",
-        "template",
-        "theme",
-        "web",
-        "admin"
-    ],
     "authors": [
         {
-            "name": "katak nyulink"
+            "name": "Putu Sudarsana",
+            "email": "itsupport.vbdev@gmail.com"
         }
     ],
-    "license": "MIT",
     "support": {
         "issues": "https://github.com/katak-nyulink/landing-page/issues"
-    }
+    },
+    "minimum-stability": "dev",
+    "require": {}
 }

@@ -1,29 +1,38 @@
 {
-    "name": "landing-page",
-    "description": "simple html web template based on Bootstrap 4.",
-    "version": "1.0.0",
-    "license": "MIT",
-    "author": "Katak Nyulink <https://katak-nyulink.com>",
-    "main": "dist/js/landing.min.js",
-    "keywords": [
-        "css",
-        "sass",
-        "responsive",
-        "admin",
-        "template",
-        "theme",
-        "framework",
-        "control-panel",
-        "dashboard"
-    ],
-    "homepage": "https://katak-nyulink.com",
-    "style": "dist/css/landing.css",
-    "sass": "build/scss/landing.scss",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/katak-nyulink/landing-page.git"
-    },
-    "bugs": {
-        "url": "https://github.com/katak-nyulink/landing-page/issues"
-    }
+  "name": "landing-page",
+  "description": "simple html web template based on Bootstrap 4.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Katak Nyulink <https://katak-nyulink.com>",
+  "main": "dist/js/landing.min.js",
+  "keywords": [
+    "css",
+    "sass",
+    "responsive",
+    "admin",
+    "template",
+    "theme",
+    "framework",
+    "control-panel",
+    "dashboard"
+  ],
+  "homepage": "https://katak-nyulink.com",
+  "style": "dist/css/landing.css",
+  "sass": "build/scss/landing.scss",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/katak-nyulink/landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katak-nyulink/landing-page/issues"
+  },
+  "scripts": {
+    "test": "halo"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
 }

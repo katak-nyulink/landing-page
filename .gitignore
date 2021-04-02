@@ -29,6 +29,7 @@
 *.sublime-project
 *.sublime-workspace
 *.code-workspace
+pinegrow.json
 nbproject
 Thumbs.db
 /.vscode/
@@ -42,3 +43,5 @@ Thumbs.db
 # Folders to ignore
 /js/coverage/
 /node_modules/
+/_pgbackup/
+/vendor/
