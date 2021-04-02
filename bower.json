@@ -1,0 +1,27 @@
+{
+  "name": "landing-page",
+  "description": "simple html web template based on Bootstrap 4.",
+  "authors": [
+    "Katak Nyulink <https://katak-nyulink.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "responsive",
+    "admin",
+    "template",
+    "theme",
+    "framework",
+    "control-panel",
+    "dashboard"
+  ],
+  "homepage": "https://github.com/katak-nyulink/landing-page",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
